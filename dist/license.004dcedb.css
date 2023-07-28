@@ -1,0 +1,80 @@
+.div1, .p {
+  font-weight: 600;
+}
+
+.div1 {
+  font-size: var(--font-size-51xl);
+  position: relative;
+}
+
+.p {
+  margin: 0;
+}
+
+.li {
+  margin-bottom: 0;
+}
+
+.bitsellercom- {
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+  margin: 0;
+}
+
+.bitsellercom-container {
+  font-size: var(--font-size-16xl);
+  width: 1240px;
+  display: inline-block;
+  position: relative;
+}
+
+.bitseller- {
+  margin: 0;
+}
+
+.bitseller-container {
+  width: 1240px;
+  display: inline-block;
+  position: relative;
+}
+
+.bitseller {
+  font-size: var(--font-size-16xl);
+  margin: 0;
+  font-weight: 600;
+}
+
+.xml- {
+  padding-left: var(--padding-8xl);
+  margin: 0;
+}
+
+.bitseller6 {
+  font-size: var(--font-size-xl);
+  margin: 0;
+}
+
+.parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 35px;
+  display: flex;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.div {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+  width: 100%;
+  height: 5662px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=license.004dcedb.css.map */

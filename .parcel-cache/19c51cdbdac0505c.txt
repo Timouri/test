@@ -1,4 +1,4 @@
-5959
+5962
 53/home/xxx/Projects/BitSeller/build/index.74ca568c.css1688470200013066419 0
 82/home/xxx/Projects/BitSeller/build/3dcryptocurrencyrenderingdesign@2x.efbefcd4.png1688470199763063969 0
 54/home/xxx/Projects/BitSeller/build/black2.78641031.svg1688470199929732268 0
@@ -7,25 +7,26 @@
 61/home/xxx/Projects/BitSeller/build/component.dffa0c22.css.map1688470200019733151 0
 54/home/xxx/Projects/BitSeller/build/black4.3c7fd882.svg1688470188656286235 0
 54/home/xxx/Projects/BitSeller/build/black1.b2731301.svg1688470188656286235 0
-34/home/xxx/Projects/BitSeller/build1688470200019733151 1
-43/home/xxx/Projects/BitSeller/component.html1688400418495035300 0
+61/home/xxx/Projects/BitSeller/build/component.754664ff.css.map1690575597238752368 0
+34/home/xxx/Projects/BitSeller/build1690575597238752368 1
+43/home/xxx/Projects/BitSeller/component.html1690574812913982200 0
 38/home/xxx/Projects/BitSeller/README.md1688381976000000000 0
-59/home/xxx/Projects/BitSeller/dist/BitSeller.3464ddca.js.map1688470009607301292 0
-53/home/xxx/Projects/BitSeller/dist/black4.44fb9849.svg1688470009523965561 0
-60/home/xxx/Projects/BitSeller/dist/component.689f5f05.css.map1688470009527298991 0
-81/home/xxx/Projects/BitSeller/dist/3dcryptocurrencyrenderingdesign@2x.11037faa.png1688470009647302443 0
-53/home/xxx/Projects/BitSeller/dist/black2.5b616640.svg1688470009613968150 0
-48/home/xxx/Projects/BitSeller/dist/component.html1688470009607301292 0
-158/home/xxx/Projects/BitSeller/dist/closeupofgoldenusdcoinsdroppingondarkbackgrounddollaristhemaincurrencyexchangeandpaymentintheworldby3drender@2x.ce1b46a3.png1688470009650635872 0
-60/home/xxx/Projects/BitSeller/dist/component.311b0ec6.css.map1688470009637302155 0
-55/home/xxx/Projects/BitSeller/dist/component.fd86c26a.js1688470009633968725 0
-56/home/xxx/Projects/BitSeller/dist/component.311b0ec6.css1688470009627301867 0
-98/home/xxx/Projects/BitSeller/dist/applicationcontactcommunicationconnectionconcept@2x.08c935fd.png1688470009650635872 0
-57/home/xxx/Projects/BitSeller/dist/image-1@2x.678ae692.png1688470009640635584 0
-59/home/xxx/Projects/BitSeller/dist/component.fd86c26a.js.map1688470009640635584 0
-55/home/xxx/Projects/BitSeller/dist/BitSeller.3464ddca.js1688470009603967862 0
-56/home/xxx/Projects/BitSeller/dist/component.689f5f05.css1688470009523965561 0
-33/home/xxx/Projects/BitSeller/dist1688470009653969301 1
+59/home/xxx/Projects/BitSeller/dist/BitSeller.3464ddca.js.map1690574592466119518 0
+53/home/xxx/Projects/BitSeller/dist/black4.44fb9849.svg1690574592442786410 0
+60/home/xxx/Projects/BitSeller/dist/component.689f5f05.css.map1690574592452786313 0
+81/home/xxx/Projects/BitSeller/dist/3dcryptocurrencyrenderingdesign@2x.11037faa.png1690574592489452626 0
+53/home/xxx/Projects/BitSeller/dist/black2.5b616640.svg1690574592479452722 0
+48/home/xxx/Projects/BitSeller/dist/component.html1690574812963981713 0
+158/home/xxx/Projects/BitSeller/dist/closeupofgoldenusdcoinsdroppingondarkbackgrounddollaristhemaincurrencyexchangeandpaymentintheworldby3drender@2x.ce1b46a3.png1690574592476119421 0
+60/home/xxx/Projects/BitSeller/dist/component.311b0ec6.css.map1690575373206488502 0
+55/home/xxx/Projects/BitSeller/dist/component.fd86c26a.js1690574778487650113 0
+56/home/xxx/Projects/BitSeller/dist/component.311b0ec6.css1690575373203155181 0
+98/home/xxx/Projects/BitSeller/dist/applicationcontactcommunicationconnectionconcept@2x.08c935fd.png1690574592476119421 0
+57/home/xxx/Projects/BitSeller/dist/image-1@2x.678ae692.png1690574592469452819 0
+59/home/xxx/Projects/BitSeller/dist/component.fd86c26a.js.map1690574778490983414 0
+55/home/xxx/Projects/BitSeller/dist/BitSeller.3464ddca.js1690574592459452916 0
+56/home/xxx/Projects/BitSeller/dist/component.689f5f05.css1690574592449453013 0
+33/home/xxx/Projects/BitSeller/dist1690575373206488502 1
 39/home/xxx/Projects/BitSeller/index.html1688381976000000000 0
 61/home/xxx/Projects/BitSeller/node_modules/parse-json/index.js1688469994513439728 0
 62/home/xxx/Projects/BitSeller/node_modules/parse-json/readme.md1688469994553441425 0
@@ -200,6 +201,7 @@
 69/home/xxx/Projects/BitSeller/node_modules/domelementtype/lib/index.js1688469994586776171 0
 71/home/xxx/Projects/BitSeller/node_modules/domelementtype/lib/index.d.ts1688469994670113037 0
 79/home/xxx/Projects/BitSeller/node_modules/domelementtype/lib/esm/index.d.ts.map1688469994616777443 0
+39/home/xxx/Projects/BitSeller/.gitignore1688470398290761972 0
 75/home/xxx/Projects/BitSeller/node_modules/domelementtype/lib/esm/index.d.ts1688469994656779139 0
 60/home/xxx/Projects/BitSeller/node_modules/domelementtype/lib1688469994666779563 1
 66/home/xxx/Projects/BitSeller/node_modules/domelementtype/readme.md1688469994636778291 0
@@ -1157,7 +1159,7 @@
 77/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/esm/_inherits_loose.js1688469995563483617 0
 81/home/xxx/Projects/BitSeller/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts1688469994843453720 0
 113/home/xxx/Projects/BitSeller/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js1688469994670113037 0
-49/home/xxx/Projects/BitSeller/build/component.html1688470200013066419 0
+49/home/xxx/Projects/BitSeller/build/component.html1690575597235419053 0
 85/home/xxx/Projects/BitSeller/node_modules/css-tree/cjs/syntax/node/common/feature.cjs1688469994893455840 0
 71/home/xxx/Projects/BitSeller/node_modules/@babel/highlight/package.json1688469994600110070 0
 101/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/esm/_class_static_private_field_destructure.js1688469995556816675 0
@@ -1296,7 +1298,7 @@
 84/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/css-overflow.js1688469995136799339 0
 85/home/xxx/Projects/BitSeller/node_modules/csso/lib/restructure/prepare/specificity.js1688469995010127445 0
 92/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/subresource-bundling.js1688469995350141478 0
-52/home/xxx/Projects/BitSeller/dist/black.34ee3433.svg1688470009613968150 0
+52/home/xxx/Projects/BitSeller/dist/black.34ee3433.svg1690574592479452722 0
 114/home/xxx/Projects/BitSeller/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/cleanupNumericValues.js1688469994736782531 0
 93/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/credential-management.js1688469995033461741 0
 62/home/xxx/Projects/BitSeller/node_modules/@swc/core/spack.d.ts1688469996480187598 0
@@ -1537,7 +1539,7 @@
 73/home/xxx/Projects/BitSeller/node_modules/@parcel/source-map/dist/node.js1688469996453519859 0
 61/home/xxx/Projects/BitSeller/node_modules/is-json/.travis.yml1688469994590109645 0
 88/home/xxx/Projects/BitSeller/node_modules/csso/node_modules/css-tree/cjs/utils/index.cjs1688470000343668606 0
-86/home/xxx/Projects/BitSeller/dist/standardqualitycontrolcollageconcept@2x.5a23c08a.png1688470009653969301 0
+86/home/xxx/Projects/BitSeller/dist/standardqualitycontrolcollageconcept@2x.5a23c08a.png1690574592496119229 0
 84/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/script-async.js1688469995323473711 0
 80/home/xxx/Projects/BitSeller/node_modules/css-tree/lib/syntax/node/Combinator.js1688469995116798514 0
 77/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/http3.js1688469995220136112 0
@@ -2850,7 +2852,7 @@
 71/home/xxx/Projects/BitSeller/node_modules/lmdb/dependencies/lz4/lib/dll1688469996263512224 1
 82/home/xxx/Projects/BitSeller/node_modules/css-tree/lib/syntax/node/MediaFeature.js1688469995173467520 0
 84/home/xxx/Projects/BitSeller/node_modules/node-gyp-build-optional-packages/README.md1688469994606777019 0
-56/home/xxx/Projects/BitSeller/dist/index.9e4c6fd2.css.map1688470009637302155 0
+56/home/xxx/Projects/BitSeller/dist/index.9e4c6fd2.css.map1690574592482786024 0
 74/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/_/_set_prototype_of1688469995650153860 1
 52/home/xxx/Projects/BitSeller/node_modules/css-select1688469994930124062 1
 89/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/lib/_class_private_field_update.js1688469995556816675 0
@@ -3627,7 +3629,7 @@
 77/home/xxx/Projects/BitSeller/node_modules/css-tree/lib/syntax/config/lexer.js1688469995170134048 0
 59/home/xxx/Projects/BitSeller/node_modules/nth-check/LICENSE1688469994486771931 0
 61/home/xxx/Projects/BitSeller/node_modules/nth-check/README.md1688469994736782531 0
-44/home/xxx/Projects/BitSeller/dist/index.html1688470009627301867 0
+44/home/xxx/Projects/BitSeller/dist/index.html1690574592469452819 0
 68/home/xxx/Projects/BitSeller/node_modules/node-releases/package.json1688469994590109645 0
 77/home/xxx/Projects/BitSeller/node_modules/node-releases/data/release-schedule1688469994620110917 1
 99/home/xxx/Projects/BitSeller/node_modules/node-releases/data/release-schedule/release-schedule.json1688469994630111342 0
@@ -3670,7 +3672,7 @@
 65/home/xxx/Projects/BitSeller/node_modules/semver/functions/lte.js1688469995813493935 0
 74/home/xxx/Projects/BitSeller/node_modules/.bin/download-msgpackr-prebuilds1688470004910491716 0
 67/home/xxx/Projects/BitSeller/node_modules/semver/functions/valid.js1688469995913498062 0
-53/home/xxx/Projects/BitSeller/dist/black3.5d9baa27.svg1688470009627301867 0
+53/home/xxx/Projects/BitSeller/dist/black3.5d9baa27.svg1690574592459452916 0
 95/home/xxx/Projects/BitSeller/node_modules/@parcel/transformer-postcss/src/PostCSSTransformer.js1688469998070250297 0
 64/home/xxx/Projects/BitSeller/node_modules/semver/functions/gt.js1688469995806826993 0
 67/home/xxx/Projects/BitSeller/node_modules/semver/functions/clean.js1688469995800160052 0
@@ -3729,7 +3731,7 @@
 73/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/_/_define_property1688469995640153447 1
 101/home/xxx/Projects/BitSeller/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/units.json1688469994843453720 0
 80/home/xxx/Projects/BitSeller/node_modules/svgo/plugins/addClassesToSVGElement.js1688469994673446512 0
-53/home/xxx/Projects/BitSeller/dist/black1.7ee9ce3f.svg1688470009520632132 0
+53/home/xxx/Projects/BitSeller/dist/black1.7ee9ce3f.svg1690574592442786410 0
 68/home/xxx/Projects/BitSeller/node_modules/@parcel/core/lib/worker.js1688470000547009292 0
 105/home/xxx/Projects/BitSeller/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeTitle.js1688469994923457112 0
 103/home/xxx/Projects/BitSeller/node_modules/csso/node_modules/css-tree/cjs/tokenizer/OffsetToLocation.cjs1688470000347002060 0
@@ -5433,7 +5435,7 @@
 71/home/xxx/Projects/BitSeller/node_modules/@parcel/profiler/src/Trace.js1688469997186882468 0
 94/home/xxx/Projects/BitSeller/node_modules/csso/node_modules/css-tree/lib/parser/SyntaxError.js1688470000480340215 0
 82/home/xxx/Projects/BitSeller/node_modules/csso/node_modules/css-tree/cjs/tokenizer1688470000357002422 1
-52/home/xxx/Projects/BitSeller/dist/index.9e4c6fd2.css1688470009627301867 0
+52/home/xxx/Projects/BitSeller/dist/index.9e4c6fd2.css1690574592482786024 0
 82/home/xxx/Projects/BitSeller/node_modules/@parcel/profiler/src/SamplingProfiler.js1688469997183549003 0
 67/home/xxx/Projects/BitSeller/node_modules/is-arrayish/.istanbul.yml1688469994566775323 0
 87/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/custom-elements.js1688469995153466694 0
@@ -5459,6 +5461,7 @@
 91/home/xxx/Projects/BitSeller/node_modules/csso/node_modules/css-tree/lib/generator/index.js1688470000440338769 0
 97/home/xxx/Projects/BitSeller/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js1688469994756783379 0
 93/home/xxx/Projects/BitSeller/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.c1688469996190175944 0
+57/home/xxx/Projects/BitSeller/build/component.754664ff.css1690575597235419053 0
 99/home/xxx/Projects/BitSeller/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1688469994786784651 0
 84/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/_/_apply_decorated_descriptor1688469995606818738 1
 66/home/xxx/Projects/BitSeller/node_modules/react-refresh/runtime.js1688469994790118125 0
@@ -5574,7 +5577,7 @@
 83/home/xxx/Projects/BitSeller/node_modules/cosmiconfig/dist/getPropertyByPath.js.map1688469994790118125 0
 55/home/xxx/Projects/BitSeller/node_modules/lmdb/index.js1688469996260178756 0
 71/home/xxx/Projects/BitSeller/node_modules/cosmiconfig/dist/index.js.map1688469994796785075 0
-28/home/xxx/Projects/BitSeller1688470188512951435 1
+28/home/xxx/Projects/BitSeller1688470382484262263 1
 81/home/xxx/Projects/BitSeller/node_modules/cosmiconfig/dist/canUseDynamicImport.js1688469994610110494 0
 73/home/xxx/Projects/BitSeller/node_modules/@swc/helpers/_/_read_only_error1688469995650153860 1
 63/home/xxx/Projects/BitSeller/node_modules/entities/lib/index.js1688469994706781259 0
@@ -5601,7 +5604,7 @@
 60/home/xxx/Projects/BitSeller/node_modules/chalk/package.json1688469994590109645 0
 54/home/xxx/Projects/BitSeller/node_modules/chalk/source1688469994560108374 1
 58/home/xxx/Projects/BitSeller/node_modules/chalk/index.d.ts1688469994633444816 0
-42/home/xxx/Projects/BitSeller/component.css1688381976000000000 0
+42/home/xxx/Projects/BitSeller/component.css1690575373163155334 0
 83/home/xxx/Projects/BitSeller/node_modules/caniuse-lite/data/features/css-regions.js1688469995140132811 0
 57/home/xxx/Projects/BitSeller/node_modules/chalk/readme.md1688469994606777019 0
 69/home/xxx/Projects/BitSeller/node_modules/source-map-js/source-map.js1688469994683446936 0

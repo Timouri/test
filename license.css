@@ -1,0 +1,67 @@
+.div1,
+.p {
+  font-weight: 600;
+}
+.div1 {
+  position: relative;
+  font-size: var(--font-size-51xl);
+}
+.p {
+  margin: 0;
+}
+.li {
+  margin-bottom: 0;
+}
+.bitsellercom- {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+}
+.bitsellercom-container {
+  position: relative;
+  display: inline-block;
+  width: 1240px;
+  font-size: var(--font-size-16xl);
+}
+.bitseller- {
+  margin: 0;
+}
+.bitseller-container {
+  position: relative;
+  display: inline-block;
+  width: 1240px;
+}
+.bitseller {
+  margin: 0;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+}
+.xml- {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.bitseller6 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.parent {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 35px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5662px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
